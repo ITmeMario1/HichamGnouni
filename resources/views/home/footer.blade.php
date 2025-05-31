@@ -8,7 +8,7 @@
                  </div>
                  <div class="information_f">
                    
-                   <p><strong style="color:rgb(255,145,77);" >TELEPHONE:</strong> +212 661 183 646</p>
+                   <p><strong style="color:rgb(255,145,77);" >TELEPHONE:</strong> 0601939172</p>
                    <p><strong style="color:rgb(255,145,77)) !important;">EMAIL:</strong> africa.shop@gmail.com</p>
                    <a  style="color:rgb(255,145,77);" href="https://wa.link/cexxxw">Wtssapp</a>
                  </div>
